@@ -4,7 +4,7 @@ Contributors: DeoThemes
 Requires at least: 5.8
 Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 0.2
+Stable tag: 1.0.0
 Contributors: DeoThemes
 Theme URI: https://deothemes.com/wordpress-themes/ona-block-wordpress-theme/
 Author URI: https://deothemes.com/
@@ -18,7 +18,10 @@ Ona Architecture is a sleek and sophisticated WordPress theme designed specifica
 
 == Changelog ==
 
-Version 1.0.0 - December 14, 2024
+Version 1.0.0 - February 7, 2025
+- Fixed: Customization of global elements
+
+Version 0.2 - December 14, 2024
 * Initial release
 
 == Copyright ==
